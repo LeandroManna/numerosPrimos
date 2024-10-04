@@ -1,0 +1,16 @@
+/* Estilo para centrar el número y aplicar los colores */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+#number {
+    color: gold;
+    font-size: 20rem;
+    font-family: Arial, sans-serif;
+}
